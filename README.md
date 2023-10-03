@@ -2,10 +2,11 @@
 
 I will try to explain Natural Language Processing from the beginning (including the projects). Let's start...!!
 
-What is Natural Language Processing (NLP)? <br>
+What is Natural Language Processing (NLP) ? <br>
 Natural Language Processing (NLP) is a subject of Artificial Intelligence that is focused in giving a computer the ability to process, understand and learn from text.
     
-3.
+What are terms normally used in NLP ?
+- 
 4. What are Corpus, Tokens, and Engrams?
    a.What is Tokenization?
 3.What is White-space Tokenization?
