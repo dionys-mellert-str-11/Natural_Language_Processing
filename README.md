@@ -1,6 +1,4 @@
-# Natural_Language_Processing
-
-I will try to explain Natural Language Processing from the beginning (including the projects). Let's start...!!
+# Natural Language Processing
 
 What is Natural Language Processing (NLP) ? <br>
 Natural Language Processing (NLP) is a subject of Artificial Intelligence that is focused in giving a computer the ability to process, understand and learn from text.
