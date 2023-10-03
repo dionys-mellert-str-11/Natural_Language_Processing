@@ -57,3 +57,6 @@ What are the examples of real world projects based on NLP ? <br>
     - a model that can summarize a piece of text into a shorter, more concise version. <br>
     - This can be used for a variety of purposes, such as providing summaries of news articles or generating summaries of customer reviews. <br>
 
+What are Python Libraries available for NLP ? <br>
+NLTK, Spacy, Gensim, CoreNLP, Polyglot, TextBlob, Regular Expreseion, Wordcloud, AllnNLP, etc. <br>
+
